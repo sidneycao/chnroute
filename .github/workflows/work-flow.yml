@@ -4,7 +4,7 @@ name: curl-china-list
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   schedule:
-    - cron: "20 8 * * *"
+    - cron: "22 8 * * *"
 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -22,5 +22,4 @@ jobs:
       # Runs a single command using the runners shell
       - name: curl
         run: |
-          curl -s https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt > china_list.txt
           echo Hello, world!
