@@ -21,4 +21,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: curl
-        run: curl -s https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt > china_list.txt
+        run: |
+          curl -s https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt > china_list.txt
+          echo Hello, world!
