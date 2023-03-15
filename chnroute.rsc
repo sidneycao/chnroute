@@ -3925,7 +3925,6 @@ add address=103.145.122.0/23 list=CNIP
 add address=103.145.188.0/23 list=CNIP
 add address=103.145.190.0/23 list=CNIP
 add address=103.146.72.0/23 list=CNIP
-add address=103.146.88.0/23 list=CNIP
 add address=103.146.90.0/23 list=CNIP
 add address=103.146.124.0/23 list=CNIP
 add address=103.146.126.0/23 list=CNIP
