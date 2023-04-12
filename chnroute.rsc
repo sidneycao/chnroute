@@ -3788,6 +3788,7 @@ add address=103.130.160.0/22 list=CNIP
 add address=103.130.228.0/22 list=CNIP
 add address=103.131.20.0/22 list=CNIP
 add address=103.131.36.0/22 list=CNIP
+add address=103.131.138.0/23 list=CNIP
 add address=103.131.152.0/22 list=CNIP
 add address=103.131.168.0/22 list=CNIP
 add address=103.131.176.0/22 list=CNIP
