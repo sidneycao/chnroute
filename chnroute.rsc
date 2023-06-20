@@ -4850,6 +4850,7 @@ add address=103.226.40.0/22 list=CNIP
 add address=103.226.56.0/22 list=CNIP
 add address=103.226.60.0/22 list=CNIP
 add address=103.226.80.0/22 list=CNIP
+add address=103.226.116.0/23 list=CNIP
 add address=103.226.132.0/22 list=CNIP
 add address=103.226.156.0/22 list=CNIP
 add address=103.226.180.0/22 list=CNIP
