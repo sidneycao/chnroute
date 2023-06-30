@@ -4892,6 +4892,7 @@ add address=103.230.28.0/22 list=CNIP
 add address=103.230.44.0/22 list=CNIP
 add address=103.230.96.0/22 list=CNIP
 add address=103.230.110.0/23 list=CNIP
+add address=103.230.128.0/23 list=CNIP
 add address=103.230.196.0/22 list=CNIP
 add address=103.230.200.0/22 list=CNIP
 add address=103.230.204.0/22 list=CNIP
